@@ -2,6 +2,7 @@ body {
     color:black;
 background: red;
  font-family: "Audiowide", sans-serif;
+ margin-bottom: 100px;
 }
 
 header {
@@ -41,6 +42,7 @@ p{
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 
 .categorias-videos img {
@@ -51,4 +53,8 @@ p{
 .categorias-videos img:hover {
 opacity: 1.0;
 border: 1px solid blue;
+}
+
+.cagoria h2 {
+    color:rgb(42, 122, 228);
 }
